@@ -1,1 +1,2 @@
-# learning_java
+# Learning Java
+## Core Java
