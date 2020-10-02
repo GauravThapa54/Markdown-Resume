@@ -1,5 +1,5 @@
 # Gaurav Thapa 
-##### 40 Thunderbird Parkway, SW, Lakewood, WA-98498 | C: (727) 678-1403 | Gaurav.thapa54@outlook.com | https://www.linkedin.com/in/thapagaurav/ | https://github.com/GauravThapa54
+##### | Gaurav.thapa54@outlook.com | https://www.linkedin.com/in/thapagaurav/ | https://github.com/GauravThapa54
 ---
 ###  Project Manager
 ___ 
