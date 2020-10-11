@@ -4,9 +4,10 @@
 ###  Project Manager
 ___ 
 ### **Summary**
--  Resourceful Technical Project Manager skilled in streamlining operations, maintaining operations, and sustaining schedules to ensure maximum satisfaction and business revenue. Bringing along five years of military leadership, team management skills and serve with motto, ‘Lead by example’. Nine months of tour served in Kuwait, sharing culture and going through mutual training overseas with foreign counterparts. Expertise in coordinating diverse teams and resources to complete objectives. Organized and meticulous with initiative-taking and diligent nature. Department of Defense Active Secret Clearance.
+-  Resourceful Technical Project Manager skilled in streamlining operations, maintaining operations, and sustaining schedules to ensure maximum satisfaction and business revenue. Bringing along five years of military leadership, team management skills and serve with motto, ‘Lead by example’. Nine months of tour served in Kuwait, sharing culture and going through mutual training overseas with foreign counterparts. Expertise in coordinating diverse teams and resources to complete objectives. Organized and meticulous with initiative-taking and diligent nature. 
 
 ### **Highlights**
+- Department of Defense Active Secret Clearance.
 - Resource Planning
 - Mission Coordinator
 - Requirement Gathering
