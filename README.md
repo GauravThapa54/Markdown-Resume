@@ -13,7 +13,7 @@ ___
 - Resource Planning
 - Lead by Example
 
-### **Experience : **
+### **Experience**
 #### CLOUD APPLICATION DEVELOPER
 #### **Microsoft Software and Systems Academy (MSSA)**
 MSSA is an 18-week programming language bootcamp, held on-site, gaining real-time experience in coding to develop Application in Cloud. The program provides college accredited courses with the goal of preparing veteran service members for technical opportunities in the field of software Engineering. Few key accomplishments include:
