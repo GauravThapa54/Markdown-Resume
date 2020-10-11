@@ -35,11 +35,11 @@ MSSA is an 18-week programming language bootcamp, held on-site, gaining real-tim
 
 ### SUPERVISOR/WATER TREATMENT SPECIALIST (11/2015 TO CURRENT) 
 **24TH CSC, JBLM, FORT-LEWIS, WA**
--	Oversee multiple training programs during field exercises, such as gunnery drills, dispatching vehicles and tactical equipment’s, manage convoy, safety drills and manage accountability of team and highly sensitive and military equipment.
--	Worked and trained as part of a highly disciplined and organized institution.
-- Tech applied: Simulator device for water treatment, Mission tracker using MS Access, PPT and Excel Sheet.
+-	Key contributor to developing (SOP) manual, providing Mission Control and Operation handling guidance, directly impacting 700-person organization overseas.
+-	Performed the installation and Operation of Tactical Water Purification Equipment, Conducted Quality analysis testing, Storage and distribution operation of over 5000 gl. of Portable Water, and securing five-Million-dollar worth of military equipment.
+-   Tech applied: Simulator device for water treatment, Mission tracker using MS Access, PPT and Excel Sheet.
 -	Developed plan and procedures, organize alternate plan, develop status report and radioed over to the headquarter
--	Coordinated with high ranking officers, colleagues and vendors to gather requirements and made sure the mission is completed.
+-	Gathered business requirements from the customers, allocated resources and delegate team with the task on hand.
 
 ### EDUCATION
 -	MBA in Project Management: 2014 Graduate from Keller Graduate School of Management - Orlando, Fl
