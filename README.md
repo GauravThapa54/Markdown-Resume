@@ -4,15 +4,19 @@
 ###  Project Manager
 ___ 
 ### **Summary**
--  Resourceful Technical Project Manager skilled in streamlining operations, maintaining operations, and sustaining schedules to ensure maximum satisfaction and business revenue. Bringing along five years of military leadership, team management skills and serve with motto, ‘Lead by example’. Nine months of tour served in Kuwait, sharing culture and going through mutual training overseas with foreign counterparts. Expertise in coordinating diverse teams and resources to complete objectives. Organized and meticulous with initiative-taking and diligent nature. 
+-  Transitioning US Army Service Member with extensive knowledge of Logistics software systems to manage and maintain government equipment worldwide. Led and trained diverse teams to execute high-level projects ensuring 100% accountability and timely execution. Niche for tackling and resolving issues, ability to incorporate with various engineering teams, coordinate customer requirements and deliver on time, on-budget results. Completed Master’s in Business Administration with concentration in Project Management and Data Applications, Project Management Certification and Pursuing various other training and Certifications. Organized and meticulous with initiative-taking and diligent nature.
 
 ### **Highlights**
-- Department of Defense Active Secret Clearance.
-- Resource Planning
-- Mission Coordinator
+- Certified Assosiate in Project Management.
+- Team Leader and Influencer
+- Process Analysis and Improvement
 - Requirement Gathering
-- Resource Planning
-- Lead by Example
+- Resource Planning and Risk Management
+- Cloud Application Development
+- Customer Obsessed and Result Driven
+- Effective Communication and active Listener
+- Growth mindset
+- ability to handle prssure
 
 ### **Experience**
 #### CLOUD APPLICATION DEVELOPER
@@ -33,13 +37,20 @@ MSSA is an 18-week programming language bootcamp, held on-site, gaining real-tim
     4.	Created CS files, Json Files, razor files and the dependencies.
     5. Published on Github Rep. 
 
-### SUPERVISOR/WATER TREATMENT SPECIALIST (11/2015 TO CURRENT) 
+### SUPERVISOR/MISSION COORDINATOR (11/2015 TO CURRENT) 
 **24TH CSC, JBLM, FORT-LEWIS, WA**
--	Key contributor to developing (SOP) manual, providing Mission Control and Operation handling guidance, directly impacting 700-person organization overseas.
+-	Key contributor to developing (SOP) manual, providing Mission Control and Operation handling guidance, directly impacting approximately 1100 -personal organization.
 -	Performed the installation and Operation of Tactical Water Purification Equipment, Conducted Quality analysis testing, Storage and distribution operation of over 5000 gl. of Portable Water, and securing five-Million-dollar worth of military equipment.
--   Tech applied: Simulator device for water treatment, Mission tracker using MS Access, PPT and Excel Sheet.
+-   Managed and oversaw $18M+ worth of properties, supplies, vehicles, and military equipment using an ERP system resulting in 99.8% operational readiness across the entire organization.
+-   Enhanced to Global Combat Support System (GCSS-Army) for entire company resulting in a seamless conversion to the new operating system.
 -	Developed plan and procedures, organize alternate plan, develop status report and radioed over to the headquarter
 -	Gathered business requirements from the customers, allocated resources and delegate team with the task on hand.
+
+### DUTY MANAGER/CHEVRON INC. (02/2010 - 10/2015)
+**ST. PETERSBURG, FL**
+-   Operated NAMOS retailers Point of Sales (POS) system to build product menu, create barcode inventory systems and managed inventory.
+-   Managed the products, engaged with vendors, used spreadsheets for account, addressed customer issues and trained new crew members.
+-   Build additional $20,000 yearly profit by cost management, directly dealing with vendors and expanding the most lucrative and highly demanding product on the shelf by replacing slow moving items.
 
 ### EDUCATION
 -	MBA in Project Management: 2014 Graduate from Keller Graduate School of Management - Orlando, Fl
@@ -49,3 +60,7 @@ MSSA is an 18-week programming language bootcamp, held on-site, gaining real-tim
 ### Certification
 - Cloud Application Developer ( MSSA, 09 May 2020)
 - Certified Assosiate in Project Management ( current)
+
+### AWARDS AND DECORATIONS
+-   Army Commendation Medal (ARCOM) for aiding and conducting joint training exercise and operating tactical equipment’s with foreign counterparts, displaying leadership qualities and SME skills.
+-   Army Achievement Medal (AAM) for showing effective leadership skills and displaying tireless, and continuous effort fighting wildfire in Yakima, WA, along with my dedicated and highly motivated team.
