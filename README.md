@@ -1,10 +1,12 @@
 # Gaurav Thapa 
 ##### | Gaurav.thapa54@outlook.com | https://www.linkedin.com/in/thapagaurav/ | https://github.com/GauravThapa54
 ---
-###  Project Manager
+###  IT Consultant
 ___ 
 ### **Summary**
--  Transitioning US Army Service Member with extensive knowledge of Logistics software systems to manage and maintain government equipment worldwide. Led and trained diverse teams to execute high-level projects ensuring 100% accountability and timely execution. Niche for tackling and resolving issues, ability to incorporate with various engineering teams, coordinate customer requirements and deliver on time, on-budget results. Completed Master’s in Business Administration with concentration in Project Management and Data Applications, Project Management Certification and Pursuing various other training and Certifications. Organized and meticulous with initiative-taking and diligent nature.
+-  Solution focused IT Consultant/Technical Program Manager with over 2 years of experience leading medium scale technology projects from design through implementation.  Instrumental in dissecting complex problems, devising iterative processes and leading end-to-end change management. Customer-oriented, driven to learn and adapt to modern technologies; successful in working in both teams and self- directed settings. Skilled ServiceNow Developer experienced in supporting digital transformation enterprise as a developer to define, build, deliver, and support custom scoped applications using ServiceNow PaaS. These solutions help clients automate work, streamline workflows/data, and provide an improved user experience resulting in client satisfaction and adoption. A US Army veteran and an MBA graduate in Project Management with a concentration in IT and holds an active DOD approved Secret Clearance.
+	Continue use of experience and understanding of cloud-based services to provide future clients with reliable and sustainable solutions using ServiceNow technology. As a passionate lifelong learner, hopes to continue refining technical skills in JavaScript while also gaining more familiarity with ServiceNow Service Portal, HRSD and ITSM processes.
+
 
 ### **Highlights**
 - Certified Assosiate in Project Management.
